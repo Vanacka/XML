@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Clovek-array>
+    <Clovek>
+        <jmeno>Chujo</jmeno>
+        <prijmeni>Zroutka</prijmeni>
+        <vek>69</vek>
+    </Clovek>
+    <Clovek>
+        <jmeno>Chujo</jmeno>
+        <prijmeni>Zmrd</prijmeni>
+        <vek>17</vek>
+    </Clovek>
+</Clovek-array>
